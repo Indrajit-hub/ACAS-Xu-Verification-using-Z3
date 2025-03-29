@@ -1,7 +1,9 @@
 # ACAS-Xu-Verification-using-Z3
 This repository provides a framework for verifying properties of ACAS Xu neural networks.
+
 Verification is performed using the Z3 SMT solver.
-I change some line of code (("Be Careful"))
+
+I changed some lines of code ('Be careful').
 
 ## Data Files
 
