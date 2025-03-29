@@ -8,3 +8,4 @@ You'll need to download the necessary ONNX and vnnlib files.  For this example
 
 * **ONNX:** [ACASXU_run2a_2_2_batch_2000.onnx](https://github.com/verivital/nnv/blob/master/data/ACASXu/onnx/ACASXU_run2a_2_2_batch_2000.onnx)
 * **Property:** [prop_1.vnnlib](https://github.com/verivital/nnv/blob/master/data/ACASXu/vnnlib/prop_1.vnnlib)
+* If you need a textual description of the properties, see here: https://github.com/mldiego/AcasXu/blob/master/Properties/
